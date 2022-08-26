@@ -71,6 +71,15 @@ a:hover {
     margin: auto;
 }
 
+.contact-me h2 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.contact-me h3 {
+    margin-top: 5px;
+    padding-top: 0;
+}
 
 .skill-row {
     max-width: 50%;
